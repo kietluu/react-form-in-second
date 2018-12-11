@@ -1,0 +1,29 @@
+{
+  "name": "react-form-in-second",
+  "version": "1.0.0",
+  "description": "make form easily, no more painful",
+  "main": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunguyenebox/react-form-in-second.git"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "form",
+    "easy",
+    "form",
+    "super",
+    "form",
+    "formit"
+  ],
+  "author": "hieunguyenebox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunguyenebox/react-form-in-second/issues"
+  },
+  "homepage": "https://github.com/hieunguyenebox/react-form-in-second#readme"
+}
