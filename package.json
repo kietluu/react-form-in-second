@@ -4,7 +4,22 @@
   "description": "make form easily, no more painful",
   "main": "dist",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "local": "NODE_ENV=local gulp build",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-polyfill": "^6.26.0",
+    "gulp-babel": "^7.0.0"
+  },
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "4",
+    "nanoid": "^2.0.0"
   },
   "repository": {
     "type": "git",
